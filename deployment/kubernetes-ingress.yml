@@ -3,7 +3,7 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: app-ingress
-  namespace: dad-group-14
+  namespace: dad-group-32
 spec:
   rules:
     - host: web-dad-group-14-172.22.21.101.sslip.io
