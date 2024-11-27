@@ -3,7 +3,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: mysql
-  namespace: dad-group-14
+  namespace: dad-group-32
 spec:
   selector:
     matchLabels:
